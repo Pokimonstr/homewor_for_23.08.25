@@ -1,12 +1,10 @@
-public class JamesBondCar implements Swimble, Flyable {
+public class JamesBondCar implements Swimable, Flyable {
     @Override
-    public void swim(String swim) {
-
+    public void swim() {
     }
 
     @Override
-    public void fly(String fly) {
+    public void fly() {
 
     }
-
 }

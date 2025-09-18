@@ -1,10 +1,6 @@
-public class Ship implements Swimble{
+public class Ship implements Swimable {
     @Override
-
-        public void swim (String swim){
-
+    public void swim() {
     }
+
 }
-
-
-
